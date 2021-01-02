@@ -1,2 +1,2 @@
-n = str(input()
+n = str(input())
 print(' '.join(map(str, reversed(n))))
